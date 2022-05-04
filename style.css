@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://i.natgeofe.com/n/6b9b1439-2fe5-4b14-8285-aa805c379088/san-francisco-travel.jpg?w=2520&h=1680);
+  background-size: cover;
+}
+
+.container {
+  border-radius: 25px;
+  border: 5px solid gray;
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+  opacity: 0.8;
+  background-color: #ffffff;
+}
+
+.row {
+  text-align: center;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+.col-2 {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px 10px 70px 10px;
+  margin: 5px;
+  background-color: #ffffff;
+  opacity: 0.8;
+}
+h1 {
+  padding-top: 10px;
+  font-size: 50px;
+  color: black;
+}
+.transpbox {
+  margin: 0 auto;
+  margin-top: 30px;
+  display: block;
+  background-color: lightgray;
+  border: 1px solid black;
+  opacity: 0.9;
+  padding: 20px;
+  width: 300px;
+  border-radius: 20px;
+}
+input {
+  margin-top: 10px;
+  border-radius: 10px;
+}
